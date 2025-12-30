@@ -39,6 +39,9 @@ I enjoy learning by building real systems and continuously improving my technica
   </a>
 </p>
 
+## 🌐 Languages
+- Spanish (native)
+- English (professional working proficiency)
 
 ---
 
