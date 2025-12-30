@@ -12,7 +12,8 @@ I build and maintain reliable systems, combining infrastructure, security and so
 - 🖥️ Background in Systems Administration (ASIR)
 - 🔐 Interested in cybersecurity, cloud infrastructure and automation
 - 🤖 Currently building Machine Learning projects with Python
-- 🌍 Comfortable working in English in technical environments
+- 📍 Valencia, Spain · Open to remote opportunities
+- 🌐 Languages: Spanish (native), English (professional working proficiency)
 
 I enjoy learning by building real systems and continuously improving my technical skills.
 
@@ -38,10 +39,6 @@ I enjoy learning by building real systems and continuously improving my technica
     <img src="https://skillicons.dev/icons?i=aws,postman,prometheus,grafana&perline=6" />
   </a>
 </p>
-
-## 🌐 Languages
-- Spanish (native)
-- English (professional working proficiency)
 
 ---
 
