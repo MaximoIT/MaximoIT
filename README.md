@@ -18,36 +18,26 @@ I enjoy learning by building real systems and continuously improving my technica
 
 ---
 
-## 🛠️ Technical Skills
+### Programming & Scripting
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,bash,powershell,html,css&perline=6" />
+  </a>
+</p>
 
-**Programming**
-- Python
-- Java
-- SQL
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" />
+  </a>
+</p>
 
-**Machine Learning & Data**
-- scikit-learn
-- pandas
-- TF-IDF / text vectorization
-- Model interpretability
-- Basic NLP pipelines
-
-**Systems & Infrastructure**
-- Linux system administration
-- Server and network management
-- Databases
-- High availability concepts
-
-**Cloud & Security**
-- AWS (hands-on experience)
-- Cybersecurity fundamentals  
-  *(Cisco – Introduction to Cybersecurity)*
-
-**Tools**
-- Git & GitHub
-- Docker (basic)
-- FastAPI
-- VS Code
+### Cloud, Networking & Observability
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,postman,prometheus,grafana&perline=6" />
+  </a>
+</p>
 
 
 ---
