@@ -1,6 +1,6 @@
 # Hi, I’m Máximo 👋
 
-**Systems Engineering student | Machine Learning & Systems Enthusiast**
+**Computer Engineering Student | Machine Learning & Systems Enthusiast**
 
 I build and maintain reliable systems, combining infrastructure, security and software engineering with a growing focus on Machine Learning and data-driven solutions.
 
